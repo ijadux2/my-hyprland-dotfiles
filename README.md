@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/hyprland-config.git
+   git clone https://github.com/ijadux2/my-hyprland-dotfiles.git
    ```
 
 2. Navigate to the cloned directory:
